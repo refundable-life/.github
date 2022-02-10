@@ -26,12 +26,7 @@
 3.
 4.
 
-## Context
-
-<!--- How has this issue affected you? What are you trying to accomplish? -->
-<!--- Providing context helps us come up with a solution that is most useful in the real world -->
-
-## Checklist:
+## Initial Checklist:
 
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
@@ -39,3 +34,12 @@
 - [ ] I have filled in all the required information above
 - [ ] I have added this issue to the Roadmap project
 - [ ] I have given the issue appropriate labels
+
+## Commencement Checklist:
+
+<!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
+
+- [ ] I am starting work on this issue
+- [ ] I have understood the issue and clarified anything required
+- [ ] I have assigned the issue to myself
+- [ ] I have marked the issue as 'In Progress' in the Roadmap Project
